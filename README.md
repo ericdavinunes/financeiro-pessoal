@@ -54,7 +54,7 @@ financeiro-pessoal/
    ```bash
    cd financeiro-pessoal
 
-   Instale as dependências:
+Instale as dependências:
 npm install
 
 Inicie o servidor de desenvolvimento:
