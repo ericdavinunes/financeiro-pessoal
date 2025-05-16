@@ -2,7 +2,6 @@
 
 Projeto de controle financeiro pessoal com funcionalidades básicas para registrar entradas e saídas, calcular saldo e visualizar o histórico. Desenvolvido com **React + Vite**, utilizando dados simulados localmente.
 
----
 
 ## 🚀 Funcionalidades
 
@@ -14,7 +13,6 @@ Projeto de controle financeiro pessoal com funcionalidades básicas para registr
 - ✅ Componentes reutilizáveis
 - ✅ Organização em páginas, componentes e assets
 
----
 
 ## 📁 Estrutura de Pastas
 
@@ -38,12 +36,14 @@ financeiro-pessoal/
 ├── package.json
 └── vite.config.js
 
+
 ## 🧑‍💻 Tecnologias Utilizadas
 
 - React
 - Vite
 - JavaScript (ES6+)
 - CSS3
+
 
 ## 🛠️ Como rodar o projeto
 
