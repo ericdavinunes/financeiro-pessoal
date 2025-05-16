@@ -12,8 +12,6 @@ Projeto de controle financeiro pessoal com funcionalidades básicas para registr
 - ✅ Componentes reutilizáveis
 - ✅ Organização em páginas, componentes e assets
 
----
-
 ## 📁 Estrutura de Pastas
 
 financeiro-pessoal/
@@ -36,16 +34,12 @@ financeiro-pessoal/
 ├── package.json
 └── vite.config.js
 
----
-
 ## 🧑‍💻 Tecnologias Utilizadas
 
 - React
 - Vite
 - JavaScript (ES6+)
 - CSS3
-
----
 
 ## 🛠️ Como rodar o projeto
 
@@ -63,7 +57,9 @@ npm run dev
 5. Acesse no navegador:
 http://localhost:5173
 
-✍️ Autor
+
+## ✍️ Autor
+
 Feito por Éric Davi Nunes, Eduardo Domingues, Débora Lima e Matheus Castro como projeto para fins de estudo.
 
 📧 Contato: eric.sousa@maisunifacisa.com.br
