@@ -2,6 +2,7 @@
   "entradas": [
     { "descricao": "Salário", "valor": 3000 },
     { "descricao": "Freelance", "valor": 1200 }
+     { "descricao": "Pensão", "valor": 5200 }
   ],
   "saidas": [
     { "descricao": "Aluguel", "valor": 1000 },
