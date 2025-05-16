@@ -2,6 +2,8 @@
 
 Projeto de controle financeiro pessoal com funcionalidades básicas para registrar entradas e saídas, calcular saldo e visualizar o histórico. Desenvolvido com **React + Vite**, utilizando dados simulados localmente.
 
+--
+
 ## 🚀 Funcionalidades
 
 - ✅ CRUD de lançamentos (simulado)
@@ -11,6 +13,8 @@ Projeto de controle financeiro pessoal com funcionalidades básicas para registr
 - ✅ Estilização com CSS moderno
 - ✅ Componentes reutilizáveis
 - ✅ Organização em páginas, componentes e assets
+
+--
 
 ## 📁 Estrutura de Pastas
 
