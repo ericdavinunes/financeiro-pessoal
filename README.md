@@ -54,13 +54,13 @@ financeiro-pessoal/
    ```bash
    cd financeiro-pessoal
 
-Instale as dependências:
+3. Instale as dependências:
 npm install
 
-Inicie o servidor de desenvolvimento:
+4. Inicie o servidor de desenvolvimento:
 npm run dev
 
-Acesse no navegador:
+5. Acesse no navegador:
 http://localhost:5173
 
 ✍️ Autor
