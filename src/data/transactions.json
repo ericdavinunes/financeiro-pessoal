@@ -1,0 +1,10 @@
+{
+  "entradas": [
+    { "descricao": "Salário", "valor": 3000 },
+    { "descricao": "Freelance", "valor": 1200 }
+  ],
+  "saidas": [
+    { "descricao": "Aluguel", "valor": 1000 },
+    { "descricao": "Supermercado", "valor": 450 }
+  ]
+}
