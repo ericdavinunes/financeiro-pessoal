@@ -16,6 +16,7 @@ Projeto de controle financeiro pessoal com funcionalidades básicas para registr
 
 ## 📁 Estrutura de Pastas
 
+
 financeiro-pessoal/
 │
 ├── public/
@@ -35,6 +36,7 @@ financeiro-pessoal/
 │
 ├── package.json
 └── vite.config.js
+
 
 ---
 
