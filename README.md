@@ -36,7 +36,6 @@ financeiro-pessoal/
 ├── package.json
 └── vite.config.js
 
-
 ---
 
 ## 🧑‍💻 Tecnologias Utilizadas
@@ -66,4 +65,5 @@ http://localhost:5173
 
 ✍️ Autor
 Feito por Éric Davi Nunes, Eduardo Domingues, Débora Lima e Matheus Castro como projeto para fins de estudo.
+
 📧 Contato: eric.sousa@maisunifacisa.com.br
