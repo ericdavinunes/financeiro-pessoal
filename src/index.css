@@ -3,7 +3,6 @@ body {
   background-color: #eaeaea; /* cor neutra mais suave */
   margin: 0;
   padding: 0;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
