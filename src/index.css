@@ -9,6 +9,16 @@ body {
   min-height: 100vh;
 }
 
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 7px;
+}
+
+
 nav {
   display: flex;
   gap: 1rem;
