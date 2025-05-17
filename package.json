@@ -14,8 +14,13 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.0"
   },
+"scripts": {
+  "build": "chmod +x node_modules/.bin/vite && vite build"
+  
+  },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
     "vite": "^5.0.0"
   }
 }
+
