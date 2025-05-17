@@ -3,5 +3,4 @@
   "outputDirectory": "dist",
   "env": {},
   "functions": {},
-  "nodeVersion": "18.x"
 }
