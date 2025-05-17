@@ -11,7 +11,8 @@ export default function Dashboard() {
   }, []);
 
   return (
-    <div>
+   <div class="container-fluid">
+
       <h1>Dashboard</h1>
       <p>Saldo: R$ {saldo.toFixed(2)}</p>
     </div>
